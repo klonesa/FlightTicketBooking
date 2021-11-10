@@ -1,6 +1,6 @@
 # FlightTicketBooking
 
-Implemented and API which contains AirportController, PlaneController, FlightExpeditionController, BookingController, PassengerController etc
+Implemented  API which contains AirportController, PlaneController, FlightExpeditionController, BookingController, PassengerController etc
 
 - Spring boot web api should be used.
 - SOLID principles must be followed.
